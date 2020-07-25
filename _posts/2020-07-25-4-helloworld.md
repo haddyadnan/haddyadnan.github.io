@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
+title: "Hello World!"
 date: 2020-07-25
-tags: [data wrangling, data science, messy data]
+tags: [Python, Data Science, github, Hello World]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Python, Data Science, github, Hello World"
 mathjax: "true"
 ---
 
