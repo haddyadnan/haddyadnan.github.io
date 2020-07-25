@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Adnan Adetunji"
-  avatar           : "/images/nc1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/nc1v1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Lagos, Nigeria"
   email            :
