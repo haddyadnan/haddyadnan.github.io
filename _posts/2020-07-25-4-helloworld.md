@@ -3,7 +3,7 @@ title: "Hello World!"
 date: 2020-07-25
 tags: [Python, Data Science, github, Hello World]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: #"/images/perceptron/percept.jpg"
 excerpt: "Python, Data Science, github, Hello World"
 mathjax: "true"
 ---
